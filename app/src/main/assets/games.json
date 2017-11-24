@@ -1,0 +1,130 @@
+{
+  "games" :
+  [{
+    "id": 0,
+    "name": "The Elder Scrolls V: Skyrim",
+    "image": "https://at-cdn-s01.audiotool.com/2015/05/26/documents/VXL58qZHo7ydkCHTJSmRY2NOZVUgU/0/cover256x256-94ebc094d4ba4ede99de745fd44725bc.jpg",
+    "release_date": "11/11/2011",
+    "trailer": "https://www.youtube.com/watch?v=JSRtYpNRoN0",
+    "platforms": [
+      "X360","PS3","PC","PS4","XONE","NS"
+    ]
+  },{
+    "id": 1,
+    "name": "FIFA 18",
+    "image": "https://static.wixstatic.com/media/25fb95_1c2087ab878140ad95e52104ce00e8d7~mv2.jpg/v1/fill/w_500,h_500,al_c,q_90/file.jpg",
+    "release_date": "29/09/2017",
+    "trailer": "https://www.youtube.com/watch?v=QV7PK8AVEKA",
+    "platforms": [
+      "X360","PS3","PC","PS4","XONE","NS"
+    ]
+  },{
+    "id": 2,
+    "name": "Forza Horizon 3",
+    "image": "http://orig13.deviantart.net/f14f/f/2016/273/7/b/forza_horizon_3_by_clarence1996-dajbtss.png",
+    "release_date": "27/09/2016",
+    "trailer": "https://www.youtube.com/watch?v=vD1ccSM9qiA",
+    "platforms": [
+      "PC","XONE"
+    ]
+  },{
+    "id": 3,
+    "name": "Rocket League",
+    "image": "http://orig14.deviantart.net/c609/f/2016/117/4/5/icon_rocket_league_by_hazzbrogaming-da0fkbx.png",
+    "release_date": "07/07/2015",
+    "trailer": "https://www.youtube.com/watch?v=NC82dWrFqCE",
+    "platforms": [
+      "PC","PS4","XONE","MAC","LNX"
+    ]
+  },{
+    "id": 4,
+    "name": "The Witcher 3: Wild Hunt",
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/04/29/d1/0429d1fb5705dd064dcdc346818c03ff.jpg",
+    "release_date": "19/05/2015",
+    "trailer": "https://www.youtube.com/watch?v=XHrskkHf958",
+    "platforms": [
+      "PC","PS4","XONE","MAC"
+    ]
+  },{
+    "id": 5,
+    "name": "Doom",
+    "image": "http://orig04.deviantart.net/7373/f/2016/128/d/2/icon_doom_by_hazzbrogaming-da1rqvm.png",
+    "release_date": "13/05/2016",
+    "trailer": "https://www.youtube.com/watch?v=RO90omga8D4",
+    "platforms": [
+      "PC","PS4","XONE"
+    ]
+  },{
+    "id": 6,
+    "name": "GTA V",
+    "image": "https://lh6.googleusercontent.com/-xRW0yRjc5bw/UrzWoiPHyUI/AAAAAAAAAAs/JP5pVwINxWE/GTA-V-Cover.PNG",
+    "release_date": "17/09/2013",
+    "trailer": "https://www.youtube.com/watch?v=QkkoHAzjnUs",
+    "platforms": [
+      "X360","PS3","PC","PS4","XONE"
+    ]
+  },{
+    "id": 7,
+    "name": "Battlefield 1",
+    "image": "http://orig15.deviantart.net/661b/f/2016/162/4/c/icon_battlefield_1_by_hazzbrogaming-da5tzqv.png",
+    "release_date": "21/09/2016",
+    "trailer": "https://www.youtube.com/watch?v=YwSFUNMrWvk",
+    "platforms": [
+      "PC","PS4","XONE"
+    ]
+  },{
+    "id": 8,
+    "name": "CS GO",
+    "image": "http://cdn.pcwallart.com/images/cs-go-icon-16x16-wallpaper-3.jpg",
+    "release_date": "21/08/2012",
+    "trailer": "https://www.youtube.com/watch?v=edYCtaNueQY",
+    "platforms": [
+      "X360","PS3","PC","MAC","LNX"
+    ]
+  },{
+    "id": 9,
+    "name": "Overwatch",
+    "image": "http://orig07.deviantart.net/af04/f/2016/128/6/d/icon_overwatch_by_hazzbrogaming-da1ruoo.png",
+    "release_date": "24/05/2016",
+    "trailer": "https://www.youtube.com/watch?v=FqnKB22pOC0",
+    "platforms": [
+      "PC","PS4","XONE"
+    ]
+  },{
+    "id": 10,
+    "name": "Dota 2",
+    "image": "https://lh4.googleusercontent.com/-uzWsJ1p9J4c/AAAAAAAAAAI/AAAAAAAAAZw/cC_C64lbatg/photo.jpg",
+    "release_date": "09/07/2013",
+    "trailer": "https://www.youtube.com/watch?v=-cSFPIwMEq4",
+    "platforms": [
+      "PC","MAC","LNX"
+    ]
+  },{
+    "id": 11,
+    "name": "League of Legends",
+    "image": "https://pbs.twimg.com/profile_images/571024672750178304/GpGC8aTW.jpeg",
+    "release_date": "27/08/2009",
+    "trailer": "https://www.youtube.com/watch?v=RprbAMOPsH0",
+    "platforms": [
+      "PC","MAC"
+    ]
+  },{
+    "id": 12,
+    "name": "Clash Royale",
+    "image": "http://s2.glbimg.com/6aSsChvFL3QYRa-M6WeyUGHdHq4=/850x446/s.glbimg.com/po/tt2/f/original/2016/03/04/clash-royale-cover-capa-e1457052148554.jpg",
+    "release_date": "04/01/2016",
+    "trailer": "https://www.youtube.com/watch?v=TJryIc0Cwy4",
+    "platforms": [
+      "Android", "iOS"
+    ]
+  },{
+    "id": 13,
+    "name": "NBA 2K17",
+    "image": "http://www.graduatetoriches.com/wp-content/uploads/2016/06/NBA-2k17-Storage-locker-Code-for-All-Consoles-Available1.jpg",
+    "release_date": "20/09/2016",
+    "trailer": "https://www.youtube.com/watch?v=Q4hS-KuQuHA",
+    "platforms": [
+      "X360","PS3","PC","PS4","XONE","NS"
+    ]
+  }]
+}

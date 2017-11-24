@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#07071a</color>
+    <color name="gameOptionBackgroud">#C0000000</color>
+    <color name="gameInfoBackground">#f01e124d</color>
+    <color name="gameAttrName">#FFFFFFFF</color>
+    <color name="gameAttrValue">#FFFFFFFF</color>
+    <color name="gameName">#FFFFFFFF</color>
+    <color name="divider">#00000000</color>
+    <color name="dividerChild">#00000000</color>
+</resources>

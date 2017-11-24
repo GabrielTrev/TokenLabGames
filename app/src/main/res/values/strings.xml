@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teste_List_View</string>
+    <string name="atributo">Atributo</string>
+    <string name="valor">Valor</string>
+    <string name="TrailerHeader">Trailer</string>
+    <string name="trailerMsg">Selecionar para exibir trailer</string>
+</resources>
