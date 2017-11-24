@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         // listaNomes.setAdapter(adapter);
 
 
-        ExpandableListView listaGames = (ExpandableListView) findViewById(R.id.huehuehue);
+        ExpandableListView listaGames = (ExpandableListView) findViewById(R.id.gamesListView);
         listaGames.setAdapter(gameListAdapter);
     }
 }

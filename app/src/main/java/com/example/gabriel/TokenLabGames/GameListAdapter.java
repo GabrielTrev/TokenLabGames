@@ -176,7 +176,7 @@ public class GameListAdapter extends BaseExpandableListAdapter {
                 valorAtributo = games.get(gameNum).getImgURL();
                 break;
             case 1:
-                nomeAtributo = "Data de Lancamento";
+                nomeAtributo = "Data de Lançamento";
                 valorAtributo = games.get(gameNum).getReleaseDate();
                 break;
             case 2:
